@@ -48,6 +48,7 @@ builder.Services.AddHangfire(config =>
 
 var app = builder.Build();
 
+app.UseMiddleware<ErrorHandlerMiddleware>();
 app.UseMiddleware<ApiKeyMiddleware>();
 
 // Configure Hangfire
