@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GGx6vj6eNKpm5lp4Wx2RDSJ5UfzzMkctmc8GJkKFOBc=",
+  "Source": "Hangfire_SwaggerAuth",
+  "BasePath": "_content/Hangfire_SwaggerAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
